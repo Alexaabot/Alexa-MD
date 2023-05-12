@@ -34,19 +34,19 @@ while (b === a)
 m.reply(`*_😍Las 5 mejores parejas del grupo😍_*
     
 *_1.- ${toM(a)} y ${toM(b)}_*
-- Esta pareja esta destinada a estar junta 💙
+- Esta pareja se aman en seceto 🧐
 
 *_2.- ${toM(c)} y ${toM(d)}_*
-- Esta pareja son dos pequeños tortolitos enamorados ✨
+- Esta pareja son amantes en secreto ✨
 
 *_3.- ${toM(e)} y ${toM(f)}_*
 - Ufff y que decir de esta pareja, ya hasta familia deberian tener 🤱🧑‍🍼
 
 *_4.- ${toM(g)} y ${toM(h)}_*
-- Estos ya se casaron en secreto 💍
+- Estos solo paran cogiendo 🥵
 
 *_5.- ${toM(i)} y ${toM(j)}_*
-- Esta pareja se esta de luna de miel ✨🥵😍❤️*`, null, {
+- Esta pareja se gustan mutuamente ✨🥵😍❤️*`, null, {
 mentions: [a, b, c, d, e, f, g, h, i, j]
 })}
 handler.help = ['formarpareja5']
