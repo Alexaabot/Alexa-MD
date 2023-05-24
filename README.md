@@ -28,8 +28,8 @@
 <a
 
 href="https://chat.whatsapp.com/KFy9YnPD4HnBxiOrLI0oCf" target="blank"><img src="https://img.shields.io/badge/Grupo actualización de Charlie-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- <a 
-                                                     
+ 
+ <a                                              
 
 -----
 [![blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
