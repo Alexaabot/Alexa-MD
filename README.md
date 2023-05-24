@@ -27,9 +27,8 @@
 
 </a>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=3000&pause=1000&color=34F6F7&center=falso&vCenter=falso&width=435&lines=%C3%9Anete+y+Conoce+las+%C3%9Altimas+Novedades!!)](https://git.io/typing-svg)
-[![blog](https://img.shields.io/badge/Grupo-actulizaciones-Charlie-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/IcMIyPJelyPCrmMf1JhNEJ)  <a 
+href="https://chat.whatsapp.com/KFy9YnPD4HnBxiOrLI0oCf" target="blank"><img src="https://img.shields.io/badge/Grupo actualización de Charlie-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ <a 
                                                      
 
 -----
