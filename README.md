@@ -58,9 +58,8 @@ wget -O - https://raw.githubusercontent.com/Emergit2006/CharlieVentas/master/ins
 ------------------
 ### 📁 (OPCIÓN 2) 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎 <img src="https://c.tenor.com/HLrXIleGBToAAAAC/transparent-cat.gif" height="40px">
 > DESCARGUÉ Y DESCOMPRIMA 
-### [`The Lolibot-MD ~ MediaFire`](https://www.mediafire.com/file/cv64tns6co3272q/Lolibot.zip/file) <a href="https://www.mediafire.com/file/cv64tns6co3272q/Lolibot.zip/file"> <img src="https://i.pinimg.com/originals/47/77/17/477717205aa460ae58f6b988a4606a02.png" height="30px">
-[![blog](https://img.shields.io/badge/LoliBot-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/i1xjB4bmYCc)
+### [`Charlie-MD ~ MediaFire`](https://www.mediafire.com/file/cv64tns6co3272q/Lolibot.zip/file) <a href="https://www.mediafire.com/file/cv64tns6co3272q/Lolibot.zip/file"> <img src="https://i.pinimg.com/originals/47/77/17/477717205aa460ae58f6b988a4606a02.png" height="30px">
+
 
 ```bash
 termux-setup-storage
@@ -69,7 +68,7 @@ termux-setup-storage
 apt update && pkg upgrade && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install imagemagick -y && pkg install yarn
 ```
 ```bash
-cd storage/downloads/Lolibot
+cd storage/downloads/El nombre de tu bot
 ```
 ```bash
 ls
@@ -82,20 +81,19 @@ npm start
 ### 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐂𝐀𝐒𝐎 𝐃𝐄 𝐃𝐄𝐓𝐄𝐍𝐄𝐑𝐒𝐄 <img src="https://i.pinimg.com/originals/0e/c9/89/0ec989dde8b5fc0deef4e5b09292b605.gif" height="30px">
 ```bash
 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
-> cd The-LoliBot-MD
+> cd CharlieVentas
 > npm start
 ```
 ----
 
 ### 𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑 <img src="http://4.bp.blogspot.com/-mFQY5cKLkQ0/U0kwKQn5RzI/AAAAAAAADk0/FDOXxWZ9grU/s1600/QR-code-color.png" height="30px">
 ```bash
-𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
-> cd The-LoliBot-MD
-> rm -rf BotSession 
+𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍The-LoliBot-MThe-Lo
+rm -rf BotSession 
 > npm start
 ```
 ----
-### 🚀 USAR LOLIBOT 24/7 EN TERMUX 
+### 🚀 USAR CHARLIE-MD 24/7 EN TERMUX 
 > EJECUTE ESTE COMANDO CUANDO YA TENGA INSTALADO EL BOT
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
@@ -142,22 +140,21 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 ```
 -----
 ### ⚡ ACTIVA EL REPLIT
-[![blog](https://img.shields.io/badge/Lolibot-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/SMjCcfuyWQE)
+
 </a>
-[![Deploy](https://img.shields.io/badge/replit_-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/elrebelde21/The-LoliBot-MD)
-<a href="https://replit.com/github/elrebelde21/The-LoliBot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
+[![Deploy](https://img.shields.io/badge/replit_-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/Emergit2006/CharlieVentas)
+<a href="https://replit.com/github/Emergit2006/CharlieVentas"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
 -----
-- [x] Resultado <details><summary>Importar Repositorio - The-LoliBot-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
+- [x] Resultado <details><summary>Importar Repositorio - CharlieVentas</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
 ------------------
 ### `💥 ACTIVAR EN KOYEB 💥`
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/elrebelde21/The-LoliBot-MD&branch=master&name=the-lolibot-md)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Emergit2006/CharlieVentas&branch=master&name=the-lolibot-md)
 
 ------------------
 ### `🔰 ACTIVAR EN RENDER 🔰`
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2Felrebelde21%2FThe-LoliBot-MD) 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2Emergit2006%2FCharlieahentas) 
 ------------------
 
 
@@ -175,7 +172,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 
 ```bash
 
-git clone https://github.com/elrebelde21/The-LoliBot-MD && cd The-LoliBot-MD && npm install && npm update && node .
+git clone https://github.com/Emergit2006/CharlieVentas && cd CharlieVentas && npm install && npm update && node .
 
 ```
 
