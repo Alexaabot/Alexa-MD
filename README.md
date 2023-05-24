@@ -27,8 +27,8 @@
 
 <a
 
-href="https://chat.whatsapp.com/KFy9YnPD4HnBxiOrLI0oCf" target="blank"><img src="https://img.shields.io/badge/Grupo actualización de Charlie-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- 
+href="https://chat.whatsapp.com/IcMIyPJelyPCrmMf1JhNEJ" target="blank"><img src="https://img.shields.io/badge/🤪 Grupos de actualización 🤖-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
  <a                                              
 
 -----
