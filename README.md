@@ -25,7 +25,7 @@
 <a href="https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c" target="blank"><img src="https://img.shields.io/badge/Charlie ventas-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 <a href="https://chat.whatsapp.com/KFy9YnPD4HnBxiOrLI0oCf" target="blank"><img src="https://img.shields.io/badge/🐈 AlexaBot & Charlie 🤖-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-</a>
+<a
 
 href="https://chat.whatsapp.com/KFy9YnPD4HnBxiOrLI0oCf" target="blank"><img src="https://img.shields.io/badge/Grupo actualización de Charlie-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  <a 
