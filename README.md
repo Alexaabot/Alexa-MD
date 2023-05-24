@@ -116,8 +116,8 @@ pm2 stop index
 pm2 start index
 ``` 
 ----
-### 😼 ACTUALIZAR LOLIBOT
-> **Note** Comandos para actualizar LoliBot-MD de forma automática
+### 😼 ACTUALIZAR CHARLIE-MD
+> **Note** Comandos para actualizar Charlie-MD de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/elrebelde21/The-LoliBot-MD/master/update.sh | bash 
 ```
