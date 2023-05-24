@@ -25,13 +25,12 @@
 <a href="https://chat.whatsapp.com/C8UfYBHRzSqIvZpMrbPc2c" target="blank"><img src="https://img.shields.io/badge/Charlie ventas-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 <a href="https://chat.whatsapp.com/KFy9YnPD4HnBxiOrLI0oCf" target="blank"><img src="https://img.shields.io/badge/🐈 AlexaBot & Charlie 🤖-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs" target="blank"><img src="https://img.shields.io/badge/Grupo ayuda sobre el bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=3000&pause=1000&color=34F6F7&center=falso&vCenter=falso&width=435&lines=%C3%9Anete+y+Conoce+las+%C3%9Altimas+Novedades!!)](https://git.io/typing-svg)
-[![blog](https://img.shields.io/badge/Grupo-actulizaciones-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o)  <a href="https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px">
-</a>
+[![blog](https://img.shields.io/badge/Grupo-actulizaciones-Charlie-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+)](https://chat.whatsapp.com/IcMIyPJelyPCrmMf1JhNEJ)  <a 
+                                                     
 
 -----
 [![blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
